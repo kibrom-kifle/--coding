@@ -1,3 +1,3 @@
 # ትግርኛ--coding
-Tigrigna repository 
-This is created to enhance the coding in Tigrigna (ትግርኛ), a language spoken in Eitrea and Ethiopia.  
+
+This is created to enhance the coding expierence in Tigrigna (ትግርኛ), a language spoken in Eitrea and Ethiopia.  
