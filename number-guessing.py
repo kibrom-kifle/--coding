@@ -1,5 +1,5 @@
 #created by kibrom kifle
-
+#edited by hala
 from random import randint
 
 rand = randint(1,10)
